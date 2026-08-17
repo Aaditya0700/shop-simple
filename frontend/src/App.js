@@ -67,7 +67,7 @@ function App() {
     <div className="app">
       <header className="app-header">
         <h1>🛍️ ShopSimple</h1>
-        <p>A minimal MERN stack e-commerce CRUD demo</p>
+        <p>A Full-Stack E-Commerce Application for managing and exploring products.</p>
       </header>
 
       <main className="app-main">
@@ -89,7 +89,8 @@ function App() {
       </main>
 
       <footer className="app-footer">
-        <p>Built with MongoDB, Express, React & Node.js</p>
+        <p>Designed & Developed by Aaditya • Built with React, Node.js, Express & MongoDB</p>
+        
       </footer>
     </div>
   );
